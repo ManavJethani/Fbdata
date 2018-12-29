@@ -1,0 +1,26 @@
+.photo {
+  display: flex;
+  justify-content: space-between;
+  flex-flow: wrap;
+
+}
+
+.picStyle {
+  border: 1px solid black;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+.picStyle  img {
+  max-width:100%;
+  max-height:100%;
+}
+
+.App {
+  background: blue;
+  font-family: "Lato", sans-serif;
+}
+
+body{
+  background: black
+}
+
